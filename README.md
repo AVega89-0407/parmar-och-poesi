@@ -47,7 +47,7 @@ Vi arbetade tillsammans med att designa, utveckla och dokumentera projektet via 
 1. Clone repository:
 
  ```bash
-   git clone https://github.com/WILGROSS/parmar-och-poesi.git
+   git clone [https://github.com/AVega89-0407/parmar-och-poesi.git]
    
    npm install
 
